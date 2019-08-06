@@ -1,5 +1,7 @@
 # networker-entry
 
+[![Build Status](https://travis-ci.org/HermitSun/networker-entry.svg?branch=master)](https://travis-ci.org/HermitSun/networker-entry)
+
 ## Project setup
 ```
 npm install
