@@ -9,7 +9,8 @@
                     <a href="http://101.132.35.81/networker/user">跳转到用户界面</a>
                 </li>
                 <li>
-                    <a href="http://101.132.35.81/networker/admin">跳转到管理界面</a>
+                    <!--                    <a href="http://101.132.35.81/networker/admin">跳转到管理界面</a>-->
+                    跳转到管理界面
                 </li>
             </ul>
         </main>
